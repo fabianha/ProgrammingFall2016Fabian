@@ -1,3 +1,5 @@
+Tyler's Comments
+
 2016.09.25 - Hi Fabien, looks like you took a shot at the second homework
 but didn't quite get the questions. If you ever have questions, don't be
 afraid to send me an email, I'm essentially ALWAYS at my computer and respond
@@ -5,3 +7,7 @@ obsessively fast to new mail. Also, thanks for your quesitons in class! Many
 of the students don't ask questions even though they aren't following, so it
 is good to have someone voice their concerns. Keep up the good work and see you
 Friday!
+
+2016.10.03 - HW4 - Nice work Fabian. You should note the order of the
+coefficients you generate being different from what R gives, driven by the
+order in which you put the columns of X. 
