@@ -1,0 +1,49 @@
+\nonstopmode{}
+\documentclass[a4paper]{book}
+\usepackage[times,inconsolata,hyper]{Rd}
+\usepackage{makeidx}
+\usepackage[utf8]{inputenc} % @SET ENCODING@
+% \usepackage{graphicx} % @USE GRAPHICX@
+\makeindex{}
+\begin{document}
+\chapter*{}
+\begin{center}
+{\textbf{\huge Package `FabiansPackage'}}
+\par\bigskip{\large \today}
+\end{center}
+\begin{description}
+\raggedright{}
+\inputencoding{utf8}
+\item[Title]\AsIs{What the Package Does (one line, title case)}
+\item[Version]\AsIs{0.0.0.9000}
+\item[Description]\AsIs{This package finds the highest number in a vector. Define the vector as a variable before inserting it as as argument).}
+\item[Depends]\AsIs{R (>= 3.3.1)}
+\item[License]\AsIs{MIT + file LICENSE?}
+\item[Encoding]\AsIs{UTF-8}
+\item[LazyData]\AsIs{true}
+\item[RoxygenNote]\AsIs{5.0.1}
+\item[NeedsCompilation]\AsIs{no}
+\item[Author]\AsIs{fabian hafner [aut, cre]}
+\item[Maintainer]\AsIs{fabian hafner }\email{fabian.hafner@sciencespo.fr}\AsIs{}
+\end{description}
+\Rdcontents{\R{} topics documented:}
+\inputencoding{utf8}
+\HeaderA{vector\_max}{Finding the highest number in a vector}{vector.Rul.max}
+%
+\begin{Description}\relax
+This function finds the biggest number in a vector
+\end{Description}
+%
+\begin{Usage}
+\begin{verbatim}
+vector_max(vector)
+\end{verbatim}
+\end{Usage}
+%
+\begin{Examples}
+\begin{ExampleCode}
+vector_max()
+\end{ExampleCode}
+\end{Examples}
+\printindex{}
+\end{document}
