@@ -10,4 +10,8 @@ Friday!
 
 2016.10.03 - HW4 - Nice work Fabian. You should note the order of the
 coefficients you generate being different from what R gives, driven by the
-order in which you put the columns of X. 
+order in which you put the columns of X.
+
+2016.10.25 - HW5 - Great job. Looks like you had some problems installing.
+             Did you get it figured out?
+             HW6 - I hope we got your questions figured out in class!
