@@ -15,3 +15,7 @@ order in which you put the columns of X.
 2016.10.25 - HW5 - Great job. Looks like you had some problems installing.
              Did you get it figured out?
              HW6 - I hope we got your questions figured out in class!
+
+2016.11.05 - HW7 and HW8 - For HW8, I hope our conversation yesterday solved
+your issues. If you are still having trouble, upload your new code and
+send me an email, I can take a look at it.
